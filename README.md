@@ -1,2 +1,1 @@
-# FenGen
-Generates random chess FENs
+gave up on this stupid ass project
